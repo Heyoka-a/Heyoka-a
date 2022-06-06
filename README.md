@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Component 7](https://user-images.githubusercontent.com/80858493/172142981-d7997c95-a6e0-4bde-84db-4fca29b198aa.jpg)
+![lewagon](https://user-images.githubusercontent.com/80858493/172147451-d3bdbbeb-c4c0-4750-8a2b-fc09036a2234.png)
 
 ## Qui suis-je 
 
-<p>Je suis Dany, j'ai participé à un bootcamp avec Le Wagon <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lewagon.com%2Ffr&psig=AOvVaw1kN9DedNgcLBfqRYVDIyMG&ust=1654599027244000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIC6juzTmPgCFQAAAAAdAAAAABAD" width=""20px> </p>
+<p>Je suis Dany, j'ai participé à un bootcamp avec Le Wagon <img src="![lewagon](https://user-images.githubusercontent.com/80858493/172147451-d3bdbbeb-c4c0-4750-8a2b-fc09036a2234.png)" width=""20px> </p>
 
 ### ➛ Langages
 
