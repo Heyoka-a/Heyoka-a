@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### ➛ Langages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="Vue js" src="[https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white](https://img.shields.io/badge/-vue%20js-red)"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="Vue js" src="https://img.shields.io/badge/-vue%20js-red"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
