@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ## Qui suis-je 
 
-<p>Je suis Dany, j'ai participé à un bootcamp avec Le Wagon <img src="https://user-images.githubusercontent.com/80858493/172147451-d3bdbbeb-c4c0-4750-8a2b-fc09036a2234.png" width="20px"> </p>
+<p align="center">Je suis Dany, en 2021 j'ai participé à un bootcamp avec Le Wagon <img src="https://user-images.githubusercontent.com/80858493/172147451-d3bdbbeb-c4c0-4750-8a2b-fc09036a2234.png" width="30px"> </br>
+Aujourd'hui je participe à de petits projets en tant que freelance et me renseigne pour un éventuel job !💼 </br>
+Je m'interesse aux nouvelles téchnologies, l'informatique en général, virtuel ou téchnique...💻</p>
 
 ### ➛ Langages
 
