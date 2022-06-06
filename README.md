@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 ### ➛ Langages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="Vue js" src="[https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white](https://img.shields.io/badge/-vue%20js-red)"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
@@ -61,3 +61,9 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Adobe Photoshop CS6" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white"></a>
 </p>
+
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api?username=heyoka-a&theme=github_dark&show_icons=true?count_private=true"></a> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyoka-a&layout=compact&theme=github_dark&langs_count=8"></a>
