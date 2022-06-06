@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 ## Qui suis-je 
 
 <p align="center">Je suis Dany, en 2021 j'ai participé à un bootcamp avec Le Wagon <img src="https://user-images.githubusercontent.com/80858493/172147451-d3bdbbeb-c4c0-4750-8a2b-fc09036a2234.png" width="30px"> </br>
-Aujourd'hui je participe à de petits projets en tant que freelance et me renseigne pour un éventuel job !💼 </br>
+Aujourd'hui j'ai ouvert une micro entreprise puis je participe à de petits projets en tant que freelance et me renseigne pour un éventuel job !💼 </br>
 Je m'interesse aux nouvelles téchnologies, l'informatique en général, virtuel ou téchnique...💻</p>
 
 ### ➛ Langages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="Vue js" src="https://img.shields.io/badge/-vue%20js-red"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
