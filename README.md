@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 ![Component 7](https://user-images.githubusercontent.com/80858493/172142981-d7997c95-a6e0-4bde-84db-4fca29b198aa.jpg)
 
+## Qui suis-je 
+
+<p>Je suis Dany, j'ai participé à un bootcamp avec Le Wagon <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lewagon.com%2Ffr&psig=AOvVaw1kN9DedNgcLBfqRYVDIyMG&ust=1654599027244000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIC6juzTmPgCFQAAAAAdAAAAABAD" width=""20px> </p>
+
 ### ➛ Langages
 
 <p>
@@ -61,6 +65,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white"></a>
 </p>
 
+## Stats Github
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
