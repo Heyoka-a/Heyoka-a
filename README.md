@@ -17,7 +17,7 @@
 <div width="100%" display="flex" justify-content="space-evenly">
   <img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/8c0e1174-26e0-456b-97d6-5a338526f4d4" width="80px" />
   <img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/58a8f10e-7d6a-4526-a925-d9a57eba8e0a" width="80px" />
-  <img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/9aa634c0-c473-4dca-9647-4f2e833459ec" width="80px" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="80px" height="80px" />
   <img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/5f601390-d21c-4f7d-a300-547f8538536c" width="80px"  />
   <img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/d23605ae-4fd5-49de-8589-ecbe4369c86c" width="80px"  />
 </div>
