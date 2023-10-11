@@ -41,5 +41,9 @@
   <img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/1f601352-0e89-478f-bbd4-3df4a6f5d423" width="80px"  />
   <img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/25a222f4-10d7-4205-adde-ea4ab0cdc007" width="80px" />
 </div>
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyoka-a&theme=compact)
+-->
+
 
 <h3>Portfolio en construction, bientôt Online 👀</h3>
