@@ -4,9 +4,8 @@
 **Heyoka-a/Heyoka-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --> 
-<img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/11a47dba-0b11-4489-ae86-3101ffee228e" width="100%" object-fit="cover"/>
+<img src="https://github.com/Heyoka-a/Heyoka-a/assets/80858493/68f4aaa5-3888-49f0-808d-b13820a1f62a" width="100%" object-fit="cover"/>
 
-<h1 align="left">Compètences</h1>
 <span height="2px" width="100%" border-bottom="1px solid white"></span>
 <ul>
   <li>⌨️ Téchnos utilisées : Javascript, Sass</li>
